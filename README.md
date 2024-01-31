@@ -1,0 +1,1 @@
+This is a Unity 3D project file, used for visualizing photovoltaic systems and simulating their shading status. Detailed information can be found in my thesis. Considering that the paper has not been published yet, please contact me at kangshi_wang@outlook.com for specific details. The introduction and detailed information about the project are currently being refined.
